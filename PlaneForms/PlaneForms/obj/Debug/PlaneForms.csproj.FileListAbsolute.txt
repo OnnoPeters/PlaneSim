@@ -1,0 +1,10 @@
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\bin\Debug\PlaneForms.exe.config
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\bin\Debug\PlaneForms.exe
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\bin\Debug\PlaneForms.pdb
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.csprojAssemblyReference.cache
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.Form1.resources
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.Properties.Resources.resources
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.csproj.GenerateResource.cache
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.csproj.CoreCompileInputs.cache
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.exe
+C:\Users\Onno\source\repos\PlaneForms\PlaneForms\obj\Debug\PlaneForms.pdb
